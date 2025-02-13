@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cheng Soo. Can call me jaxz as well.
+- 👋 Hi, I’m @jaxz.
 - 👀 I’m interested in meachine learning and AI
 - 🌱 I’m currently studing at 42KL.
 
