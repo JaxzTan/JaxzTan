@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaxz.
-- 👀 I’m interested in meachine learning and AI
 - 🌱 I’m currently studing at 42KL.
+-   language that i learned --- C, C++
 
 
 <!---
