@@ -2,7 +2,7 @@
 - ** Hi, I’m @Jaxz.
 - ** I’m currently studing at 42KL.
 - ** Reach out to me through:**
-  - LinkedIn: https://www.linkedin.com/in/jaxz-tan-a2b9b6361/
+  - LinkedIn: [https://www.linkedin.com/in/jaxz-tan-a2b9b6361/](https://www.linkedin.com/in/jaxz-tan-cheng-soo-a2b9b6361/)
   - Email: jaxz8835@gmail.com
 
 ### Tech Stack
