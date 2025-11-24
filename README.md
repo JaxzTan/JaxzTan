@@ -14,7 +14,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JaxzTan&show_icons=true&theme=radical)
 
 ### 📈 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?JaxzTan=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaxzTan&layout=compact&theme=radical)
 
 <!---
 JaxzTan/JaxzTan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
