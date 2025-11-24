@@ -1,9 +1,9 @@
 ### About Me
-- 👋 Hi, I’m @jaxz.
-- 🌱 I’m currently studing at 42KL.
--   reach out to me through:
-    linkedin https://www.linkedin.com/in/jaxz-tan-a2b9b6361/
-    email: jaxz8835@gmail.com
+- ** Hi, I’m @jaxz.
+- ** I’m currently studing at 42KL.
+- ** Reach out to me through:**
+  - LinkedIn: https://www.linkedin.com/in/jaxz-tan-a2b9b6361/
+  - Email: jaxz8835@gmail.com
 
 ### Tech Stack
 - **Languages:** JavaScript, TypeScript, C, C++.
